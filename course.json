@@ -1,0 +1,48 @@
+{
+
+    "id":"63108c375bb0021db5a774d9",
+    "name":"SIA2",
+    "description":"Information Technology",
+    "price":"30,000",
+    "slots":"20",
+    "schedule":"MTWThF",
+    "instructor":"Ms.Fernandez",
+    "isActive":"active",
+    "enrollees": [
+
+        {
+            "id":"1",
+            "userId":"631089895bb0021db5a77414",
+            "userName":"jnoelgita",
+            "isPaid":"Completed",
+            "dateEnrolled":"09/1/2022"
+        }
+
+    ]
+
+}
+{
+
+    "id":"63108c375bb0021db5a774dc",
+    "name":"Algorithm",
+    "description":"Information Technology Subject",
+    "price":"40,000",
+    "slots":"10",
+    "schedule":"MTWThF",
+    "instructor":"Mr. Bautista",
+    "isActive":"active",
+    "enrollees": [
+
+        {
+            "id":"2",
+            "userId":"631089895bb0021db5a77417",
+            "userName":"jnickgita",
+            "isPaid":"Completed",
+            "dateEnrolled":"09/1/2022"
+        }
+
+    ]
+
+}
+
+//3 Model Booking System with Referencing

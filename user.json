@@ -1,0 +1,40 @@
+
+
+{
+    "_id" :"631089895bb0021db5a77414",
+    "username" : "jnoelgita",
+    "firstName" : "John Noel",
+    "lastName" : "Gita",
+    "email" : "jnoelgita@gmail.com",
+    "password" : "CEU12345",
+    "mobileNumber" : "09163941335",
+    "isAdmin" : "false",
+    "enrollments" : [ 
+        {
+            "id" : "63108faf5bb0021db5a7754c",
+            "courseId" : "63108c375bb0021db5a774d9",
+            "courseName" : "SIA2",
+            "isPaid" : "Complete",
+            "dateEnrolled" : "9/1/2022"
+        }
+    ]
+}
+{
+    "_id" :"631089895bb0021db5a77417",
+    "username" : "jnickgita",
+    "firstName" : "John Nick",
+    "lastName" : "Gita",
+    "email" : "jnickgita@gmail.com",
+    "password" : "CEU12345",
+    "mobileNumber" : "09163941335",
+    "isAdmin" : "false",
+    "enrollments" : [ 
+        {
+            "id" : "63108faf5bb0021db5a7754f",
+            "courseId" : "63108c375bb0021db5a774dc",
+            "courseName" : "Algorithm",
+            "isPaid" : "Complete",
+            "dateEnrolled" : "9/1/2022"
+        }
+    ]
+}
